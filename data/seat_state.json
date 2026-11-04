@@ -1,4 +1,47 @@
 {
-  "version": 1,
-  "batches": {}
+  "batches": {
+    "[\"central\",\"jaipur\",\"advanced (icitss) mcs course\",\"AdvICITSSMCS__JAIPUR_88\"]": {
+      "available_seats": 0,
+      "changed_at": "2026-11-04T14:39:02+05:30",
+      "last_notified_seats": null,
+      "notification_pending": false,
+      "to_date": "03/12/2026"
+    },
+    "[\"central\",\"jaipur\",\"advanced (icitss) mcs course\",\"AdvICITSSMCS__JAIPUR_89\"]": {
+      "available_seats": 0,
+      "changed_at": "2026-11-04T14:39:02+05:30",
+      "last_notified_seats": null,
+      "notification_pending": false,
+      "to_date": "30/11/2026"
+    },
+    "[\"central\",\"jaipur\",\"advanced (icitss) mcs course\",\"AdvICITSSMCS__JAIPUR_90\"]": {
+      "available_seats": 0,
+      "changed_at": "2026-11-04T14:39:02+05:30",
+      "last_notified_seats": null,
+      "notification_pending": false,
+      "to_date": "18/12/2026"
+    },
+    "[\"central\",\"jaipur\",\"advanced (icitss) mcs course\",\"AdvICITSSMCS__JAIPUR_91\"]": {
+      "available_seats": 0,
+      "changed_at": "2026-11-04T14:39:02+05:30",
+      "last_notified_seats": null,
+      "notification_pending": false,
+      "to_date": "09/12/2026"
+    },
+    "[\"central\",\"jaipur\",\"advanced (icitss) mcs course\",\"AdvICITSSMCS__JAIPUR_92\"]": {
+      "available_seats": 0,
+      "changed_at": "2026-11-04T14:39:02+05:30",
+      "last_notified_seats": null,
+      "notification_pending": false,
+      "to_date": "21/12/2026"
+    },
+    "[\"central\",\"jaipur\",\"advanced (icitss) mcs course\",\"AdvICITSSMCS__JAIPUR_93\"]": {
+      "available_seats": 0,
+      "changed_at": "2026-11-04T14:39:02+05:30",
+      "last_notified_seats": null,
+      "notification_pending": false,
+      "to_date": "24/12/2026"
+    }
+  },
+  "version": 1
 }
