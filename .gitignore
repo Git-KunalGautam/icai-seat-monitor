@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.test-tmp*/
+pytest-cache-files-*/
+*.py[cod]
+*.tmp
+.coverage
+data/local_state.json
