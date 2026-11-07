@@ -22,10 +22,10 @@
       "to_date": "18/12/2026"
     },
     "[\"central\",\"jaipur\",\"advanced (icitss) mcs course\",\"AdvICITSSMCS__JAIPUR_91\"]": {
-      "available_seats": 0,
-      "changed_at": "2026-11-04T14:39:02+05:30",
+      "available_seats": 1,
+      "changed_at": "2026-11-07T14:11:29+05:30",
       "last_notified_seats": null,
-      "notification_pending": false,
+      "notification_pending": true,
       "to_date": "09/12/2026"
     },
     "[\"central\",\"jaipur\",\"advanced (icitss) mcs course\",\"AdvICITSSMCS__JAIPUR_92\"]": {
